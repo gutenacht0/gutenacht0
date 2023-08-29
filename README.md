@@ -1,7 +1,7 @@
 # 🔒🌐 Gute Nacht's Secure Coding Sanctuary 🌐🔒
 
 <p align="center">
-  <img src="https://github.com/yourusername/avatar.png" alt="Profile Avatar" width="200" height="200">
+  <img src="/img/unknown11.png" alt="Profile Avatar" width="200" height="200">
 </p>
 <p align="center">
   <i>"Security isn't just a feature, it's a way of life. My code is a fortress, impervious to the tides of chaos!"</i>
