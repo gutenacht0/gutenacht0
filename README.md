@@ -26,9 +26,13 @@
 
 <!-- Replace with your project details -->
 <p align="center">
-  🌟 [Anti Ratter Project](https://twitter.com) - Brief description of the project's security focus and goals.
+  
+  🌟 [Anti Ratter Project](https://twitter.com/) - Brief description of the project's security focus and goals.
+  
   <br>
+  
   🌐 [Personal Website](https://gutenacht.dev/) - Explore my thoughts on software security and musings on ethical coding.
+  
 </p>
 
 <!-- Mission Statement -->
@@ -53,7 +57,7 @@
 <h2 align="center">Let's Connect 🌐</h2>
 
 <p align="center">
-  🌐 Explore my journey on [Twitter](your_twitter_url_here)
+  🌐 Explore my journey on [Twitter](https://twitter.com)
   <br>
   📫 Reach out via [Email](mailto:your_email@example.com)
 </p>
