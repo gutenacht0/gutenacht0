@@ -57,9 +57,13 @@
 <h2 align="center">Let's Connect 🌐</h2>
 
 <p align="center">
+  
   🌐 Explore my journey on [Twitter](https://twitter.com)
+  
   <br>
+  
   📫 Reach out via [Email](mailto:your_email@example.com)
+
 </p>
 
 <!-- Footer -->
