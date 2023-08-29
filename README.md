@@ -6,6 +6,7 @@
 <p align="center">
   <i>"Security isn't just a feature, it's a way of life. My code is a fortress, impervious to the tides of chaos!"</i>
 </p>
+
 ## 🛡️ Welcome to My Secure World 🛡️
 Hey there! 👋 Welcome to my virtual stronghold of software security! 🏰🔐 Step into my realm of code where every line is meticulously crafted, fortified against the relentless onslaught of cyber threats. Here, software isn't just a program; it's an impregnable bastion of ones and zeros!
 
